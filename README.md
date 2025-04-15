@@ -29,7 +29,7 @@ A fully functional and responsive front-end for a food delivery application buil
 
 ## 📁 Folder Structure
 
-YumCrave- Food Delivery Front-End/
+YumCrave/
 
 ├── src/
 │  ├── components/
@@ -51,4 +51,3 @@ YumCrave- Food Delivery Front-End/
 │      ├── server.js      # Server entry point
 │      ├── package.json
 └── README.md
-```
